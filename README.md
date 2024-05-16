@@ -1,4 +1,6 @@
 # Space-Invaders-Emulator
-A 1978 Space Invader Emulator I've created around two years ago when I started learning Programming.
+A 1978 Space Invader Emulator I've created somewhere around 2019 when I started learning Programming.
 The emulator is a buggy, slow mess that only managed to play the game's Demo mode.
-I might revisit and rework this Emulator sometime in the future when I have more free time, otherwise this will stay like this for now.
+
+This emulator is now in archive mode, it'd be probably be better for me to restart this emulator from scratch if I ever feel like continuing this emulator.
+As for now though, this code is provided as is.
